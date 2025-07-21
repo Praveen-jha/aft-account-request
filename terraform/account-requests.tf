@@ -2,8 +2,8 @@ module "sandbox" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "utkarsh.219302026@muj.manipal.edu"
-    AccountName               = "sandbox-aft"
+    AccountEmail              = "kabeer.219302036@muj.manipal.edu"
+    AccountName               = "newaccount"
     ManagedOrganizationalUnit = "Workload OU"
     SSOUserEmail              = "praveen.jha@celebaltech.com"
     SSOUserFirstName          = "praveen"
